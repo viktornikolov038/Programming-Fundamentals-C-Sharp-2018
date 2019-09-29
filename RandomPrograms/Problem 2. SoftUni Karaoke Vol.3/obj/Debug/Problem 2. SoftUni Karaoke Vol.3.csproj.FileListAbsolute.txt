@@ -1,0 +1,7 @@
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\bin\Debug\Problem_2.SoftUni_Karaoke_Vol._3.exe.config
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\bin\Debug\Problem_2.SoftUni_Karaoke_Vol._3.exe
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\bin\Debug\Problem_2.SoftUni_Karaoke_Vol._3.pdb
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\obj\Debug\Problem 2. SoftUni Karaoke Vol.3.csprojAssemblyReference.cache
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\obj\Debug\Problem 2. SoftUni Karaoke Vol.3.csproj.CoreCompileInputs.cache
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\obj\Debug\Problem_2.SoftUni_Karaoke_Vol._3.exe
+C:\Users\vikma\Desktop\Programming-Fundamentals-Extended-master\RandomPrograms\Problem 2. SoftUni Karaoke Vol.3\obj\Debug\Problem_2.SoftUni_Karaoke_Vol._3.pdb
