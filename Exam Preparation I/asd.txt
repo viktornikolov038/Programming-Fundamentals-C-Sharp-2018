@@ -1,0 +1,8 @@
+            foreach (var participant in awards)
+            {
+                Console.WriteLine(participant.Key + ": " + participant.Value.Count);
+                foreach (var award in participant.Value)
+                {
+                    Console.WriteLine("--" + award);
+                }
+            }
